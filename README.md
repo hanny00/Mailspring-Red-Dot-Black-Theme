@@ -1,7 +1,8 @@
-﻿Theme for Mailspring with red and brown colors
+![Screenshot](screenshot/Screenshot_1.png)
+Theme for Mailspring with red and grey colors inspired by KDE Plasma Theme RED-DOT-BLACK
 
 Summary 
-📍 A fresher theme inspired by the KDE-Plasma Desktop Environment Themes with a splash of brown and red colors
+📍 A fresher theme inspired by the KDE-Plasma Desktop Environment Theme Red-Dot-Black Theme
 💻 Easy to install into Mailspring; 🎉 Open source 
 
 How to install the theme into Mailspring 
