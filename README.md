@@ -21,7 +21,9 @@ License
 Licensed under the Mailsping-Theme-Starter by Foundry 376, LLC 
 I hope you like the theme and share with some friends. 
 https://github.com/hanny00?tab=repositories
-# Mailspring Theme Starter
+
+
+# Mailspring Theme Starter (https://github.com/Foundry376/Mailspring-Theme-Starter)
 
 The Mailspring Theme Starter is a basic starting point for creating a theme for
 the [Mailspring](http://www.getmailspring.com/) email client.
