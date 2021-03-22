@@ -1,0 +1,13 @@
+{
+  "name": "Red-Dot-Black-theme-",
+  "title": "RDB inspired Theme",
+  "displayName": "RDB-Mailspring-Theme",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A great dark theme inspired by the Red-Dot-Black KDE-Plasma Theme",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
